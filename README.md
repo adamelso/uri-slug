@@ -37,7 +37,7 @@ Example Usage
     echo \UriSlug::create('Welcome to Großröhrsdorf!!1!one!'); // prints 'welcome-to-grosrohrsdorf1one';
 ```
 
-Licence
+License
 ----------
 
-As this is based on functions found in WordPress 3, and WordPress is released under the GPL v2 licence, so is this helper class.
+As this is based on functions found in WordPress 3, and WordPress is released under the GPL v2 license, so is this helper class.
