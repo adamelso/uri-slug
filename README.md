@@ -19,6 +19,7 @@ Add to your composer.json
 Example Usage
 ---------------------
 
+```php
     <?php
 
     require __DIR__.'/vendor/autoload.php';
@@ -34,7 +35,7 @@ Example Usage
     
     // Factory method creates new instance with the given text and returns the slug string
     echo \UriSlug::create('Welcome to Großröhrsdorf!!1!one!'); // prints 'welcome-to-grosrohrsdorf1one';
-
+```
 
 Licence
 ----------
