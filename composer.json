@@ -1,0 +1,12 @@
+{
+    "name": "urislug/urislug",
+    "license": "GPL-2.0",
+    "type": "library",
+    "description": "",
+    "autoload": {
+        "psr-0": { "UriSlug": "lib/" }
+    },
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
