@@ -1,5 +1,10 @@
-UriSlug
-========
+UriSlug [Deprecated]
+====================
+
+__Deprecated!__ Please use [URLify](https://github.com/jbroadway/urlify) instead.
+
+Overview
+--------
 
 Canonicalizes a string to a URL-friendly format. Based on a combination of WordPress functions.
 
